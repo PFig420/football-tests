@@ -1,0 +1,7 @@
+.venv/
+uvbin/
+__pycache__/
+*.py[cod]
+raw/
+*.log
+*:Zone.Identifier

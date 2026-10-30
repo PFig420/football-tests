@@ -1,0 +1,28 @@
+{
+  "all_competitions": {
+    "n_train": 57104,
+    "n_test": 18955,
+    "base_rate": 0.1038806388344074,
+    "log_loss": 0.283240346311149,
+    "roc_auc": 0.7805167757711922,
+    "test_goals": 1984,
+    "test_xg": 1999.9042540140642,
+    "r_vs_statsbomb": 0.807112526964323,
+    "pool_shots": 95190,
+    "penalty_rate": 0.7629695885509838,
+    "sporting_total_xg": 16.737851504141524
+  },
+  "mens_elite_only": {
+    "n_train": 35238,
+    "n_test": 11871,
+    "base_rate": 0.10241784437255236,
+    "log_loss": 0.28507773553995075,
+    "roc_auc": 0.79169000823423,
+    "test_goals": 1288,
+    "test_xg": 1216.4102887154315,
+    "r_vs_statsbomb": 0.8208556559548159,
+    "pool_shots": 59120,
+    "penalty_rate": 0.7628294036061026,
+    "sporting_total_xg": 17.22059640589452
+  }
+}
